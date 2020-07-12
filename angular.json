@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "analytic-commerce"
+    }
+  },
+  "defaultProject": "analytic-commerce",
+  "cli": {
+    "analytics": "1a2cdca5-8501-49a2-9c1b-2a71aceeab50"
+  }
 }
